@@ -1,6 +1,6 @@
-# ExecutionBroker
+# ExecutionBroker Implementation
 
-This project creates a generic ExecutionBroker server that uses the [ExecutionBrokerDM](https://github.com/ivoa/ExecutionBrokerDM).
+This project creates a generic ExecutionBroker server that uses the [ExecutionBrokerDM](https://ivoa.github.io/HemarisDM/).
 
 This project uses Quarkus, If you want to learn more about Quarkus, please visit its website: <https://quarkus.io/>.
 
